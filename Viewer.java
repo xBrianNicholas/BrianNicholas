@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Maze
+public class Viewer
 {
    public static void view(int[][] grid)
    {         
